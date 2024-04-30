@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kilekun-od
 - 👀 I’m interested in Front-end Development, Machine Learning and CyberSecurity.
-- 🌱 I’m currently learning Front-end Development,  Internet of Things (IoT) and Embedded Systems, Cybersecurity, Machine Learning, Python programming, and SQL.
+- 🌱 I’m currently learning Front-end Development,  Internet of Things (IoT) and Embedded Systems, Cybersecurity, Machine Learning, Python, and SQL.
 - 💞️ I’m looking to collaborate on Cool Projects involving Front-end Development, Machine Learning, and Embedded Systems.
 - 📫 How to reach me ... +2349137480146, kilekunonajide@gmail.com/onajide.adekilekun@stu.cu.edu.ng. 
 - 😄 Pronouns: ... He/Him
