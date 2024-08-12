@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kilekun-28
 - 👀 I’m interested in Cybersecurity and Front-End Development 
-- 🌱 I’m currently learning Front-End Development,  Internet of Things (IoT) and Embedded Systems, Supervised Machine Learning, Python, Linux and SQL.
-- 💞️ I’m looking to collaborate on fun projects, and internships, too.
-- 📫 How to reach me ... +2349137480146, kilekunonajide@gmail.com/onajide.adekilekun@stu.cu.edu.ng. 
+- 🌱 I’m currently learning to strengthen my skills in Front-End Development, Python, Linux and SQL, and other stuff.
+- 💞️ I’m looking to LEARN
+- 📫 How to reach me ...kilekunonajide@gmail.com, onajide.adekilekun@stu.cu.edu.ng. 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: Jesus loves us, so much! :)
+- ⚡ Fun fact: Jesus loves us, so much!
