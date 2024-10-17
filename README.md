@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kilekun
 - 👀 I’m interested in Cybersecurity, and i also enjoy front-end dev! 
-- 🌱 I’m currently learning to strengthen my skills in Front-end dev, Python, JavaScript, Linux, SQL, Ethical Hacking, and other cybersecurity aspects.
+- 🌱 I’m currently treading the paths of Front-end dev, Python, JavaScript, Linux, SQL, Ethical Hacking, and other cybersecurity aspects.
 - 💞️ I’m looking to always improve my knowledge of everything, and anything!
 - 📫 How to reach me ...kilekunonajide@gmail.com, onajide.adekilekun@stu.cu.edu.ng. 
 - 😄 Pronouns: ... He/Him
