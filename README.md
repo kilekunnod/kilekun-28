@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kilekun
-- 👀 I’m interested in Cybersecurity, and i also enjoy front-end dev! 
+- 👀 I’m interested in Cybersecurity, starting to explore AI/ML, and i also enjoy Frontend dev for fun.
 - 🌱 I’m currently treading the paths of Front-end dev, Python, JavaScript, Linux, SQL, Ethical Hacking, and other cybersecurity aspects.
 - 💞️ I’m looking to always improve my knowledge of everything, and anything!
 - 📫 How to reach me ...kilekunonajide@gmail.com, onajide.adekilekun@stu.cu.edu.ng. 
